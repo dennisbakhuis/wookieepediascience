@@ -11,6 +11,8 @@ are pretty funny I say so myself.
 
 [You can find full blog post here.]()
 
+[Here is an interactive network graph!](https://dennisbakhuis.github.io/wookieepediascience/)
+
 ## Notebooks
 Analysis is divided in five notebooks:
 1. [Scraping wookieepedia](https://github.com/dennisbakhuis/wookieepediascience/blob/main/Notebooks/1_Scraping_wookieepedia.ipynb)
