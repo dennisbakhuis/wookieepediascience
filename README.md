@@ -10,7 +10,7 @@ This year I have scraped all canon articles from the Wookieepedia and
 applied various data science techniques on the dataset. The results
 are pretty funny I say so myself.
 
-[You can find full blog post here.]()
+[You can find full blog post here.](https://towardsdatascience.com/star-wars-data-science-d32acde3432d#bfc3-b4bf2449ea8d)
 
 [Here is an interactive network graph!](https://dennisbakhuis.github.io/wookieepediascience/)
 
