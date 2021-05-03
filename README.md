@@ -1,5 +1,5 @@
 # Wookieepedia science
-![Wookieepedia data analysis banner](Assets/sw_scrape1.png)
+![Wookieepedia data analysis banner](Assets/sw_banner.png)
 #### Data science using Wookieepedia data
 #### May the fourth 2021
 #### https://linkedin.com/in/dennisbakhuis
