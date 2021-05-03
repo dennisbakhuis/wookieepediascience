@@ -1,6 +1,6 @@
-# Wookieepedia science
+# Wookieepedia Data Science
 ![Wookieepedia data analysis banner](Assets/sw_banner.png)
-#### Data science using Wookieepedia data
+#### Network Analysis, Topic Modeling, and a Wordcloud!
 #### May the fourth 2021
 #### https://linkedin.com/in/dennisbakhuis
 Last year I created a [blog post for the Star Wars celebration day](https://towardsdatascience.com/a-neural-network-from-scratch-c09fd2dea45d)
