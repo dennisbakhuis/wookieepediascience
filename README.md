@@ -13,11 +13,11 @@ are pretty funny I say so myself.
 
 ## Notebooks
 Analysis is divided in five notebooks:
-1. [Scraping wookieepedia]()
-2. [Data exploration]()
-3. [Wordcloud]()
-4. [Topic modeling]()
-5. [Network analysis]()
+1. [Scraping wookieepedia](https://github.com/dennisbakhuis/wookieepediascience/blob/main/Notebooks/1_Scraping_wookieepedia.ipynb)
+2. [Data exploration](https://github.com/dennisbakhuis/wookieepediascience/blob/main/Notebooks/2_Wookieepedia_data_exploration.ipynb)
+3. [Wordcloud](https://github.com/dennisbakhuis/wookieepediascience/blob/main/Notebooks/3_Wordcloud.ipynb)
+4. [Topic modeling](https://github.com/dennisbakhuis/wookieepediascience/blob/main/Notebooks/4_Topic_modeling.ipynb)
+5. [Network analysis](https://github.com/dennisbakhuis/wookieepediascience/blob/main/Notebooks/5_network_analysis.ipynb)
 
 ## Python environment
 All analysis is performed in Python 3.8. Below is a short
