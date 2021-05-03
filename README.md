@@ -1,4 +1,5 @@
 # Wookieepedia science
+<img src="../Assets/sw_scrape1.png" alt="Artificial Neural Network example" width="500" style="display: block; margin: 0 auto" />
 #### Data science using Wookieepedia data
 #### May the fourth 2021
 #### https://linkedin.com/in/dennisbakhuis
